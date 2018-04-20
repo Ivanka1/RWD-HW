@@ -128,7 +128,7 @@ header{
     }
     .main {
         flex-wrap: wrap;
-        height: 800px;
+        height: 671px;
     }
 
     .navigation {
@@ -141,7 +141,7 @@ header{
     }
     .main1 {
         display: flex;
-        margin: 0;
+        margin: 10px;
         height: 60px;
         width: 27%;
 
@@ -196,4 +196,3 @@ header{
         margin-left: 3px;
     }
 }
-
