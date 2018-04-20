@@ -28,6 +28,9 @@ header{
     width: 100%;
 }
 
+.aside {
+    flex-basis: 12%;
+}
 .navigation{
     background: #FF5607;
     flex-basis: 18%;
@@ -106,6 +109,9 @@ header{
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
+    }
+    .aside {
+        flex-basis: 1%;
     }
     .header1 {
         width: 96%;
@@ -190,3 +196,4 @@ header{
         margin-left: 3px;
     }
 }
+
