@@ -28,9 +28,6 @@ header{
     width: 100%;
 }
 
-.aside {
-    flex-basis: 12%;
-}
 .navigation{
     background: #FF5607;
     flex-basis: 18%;
